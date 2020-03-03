@@ -1,0 +1,18 @@
+\contentsline {section}{摘要}{II}{section*.1}%
+\contentsline {section}{Abstract}{III}{section*.2}%
+\contentsline {section}{\numberline {第1章}介绍}{1}{section.1}%
+\contentsline {section}{\numberline {第2章}背景}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}传统的风险分析和减轻灾害}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}施工安全规划中的信息建模}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {第3章}基于 BIM 的规则检查}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}规则检查方法}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}基于规则的算法在案例研究中的应用}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {第4章}基于 BIM 的跌落危险检测和\\预防规划案例研究的经验教训}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}案例研究 1:手工建模与自动建模的比较}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}案例研究 2:BIM 中的动态跌落危险检测和预防}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}讨论}{21}{subsection.4.3}%
+\contentsline {section}{\numberline {第5章}审查 BIM 平台以支持安全规划}{23}{section.5}%
+\contentsline {subsection}{\numberline {5.1}已知问题}{23}{subsection.5.1}%
+\contentsline {section}{\numberline {第6章}总结}{25}{section.6}%
+\contentsline {section}{致谢}{26}{section*.22}%
+\contentsline {section}{参考文献}{26}{section.6}%
