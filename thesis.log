@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.27)  3 MAR 2020 10:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.27)  3 MAR 2020 10:36
 entering extended mode
-**c:/Users/曲俊宇/Desktop/WHUT-LaTeX-bachelor-master/thesis.tex
-(c:/Users/曲俊宇/Desktop/WHUT-LaTeX-bachelor-master/thesis.tex
+**c:/Users/曲俊宇/Desktop/毕业设计/过程/translate/thesis.tex
+(c:/Users/曲俊宇/Desktop/毕业设计/过程/translate/thesis.tex
 LaTeX2e <2020-02-02> patch level 4
 L3 programming layer <2020-02-25> (F:\miktex\tex/latex/ctex\ctexart.cls
 (F:\miktex\tex/latex/l3kernel\expl3.sty
@@ -1832,20 +1832,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
 (body/appendices.aux) (body/acknowledge.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 6EEB5D39ADEF28A5166F972540D05D93;2211.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: CD34D3ED97BA04B2A8821C7FA5085063;2229
+(rerunfilecheck)             After:  6EEB5D39ADEF28A5166F972540D05D93;2211.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  36704 strings out of 414602
- 736734 string characters out of 2914524
+ 736707 string characters out of 2914524
  1115097 words of memory out of 3000000
  53051 multiletter control sequences out of 15000+200000
  541837 words of font info for 113 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,12n,82p,876b,643s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,12n,82p,867b,643s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on thesis.pdf (30 pages).
